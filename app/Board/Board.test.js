@@ -1,4 +1,4 @@
-import Board from "./Boards";
+import Board from "./Board";
 
 describe("Given a method generateCells,", () => {
   describe("when it receives a width of 2 and a height of 2,", () => {

@@ -1,4 +1,4 @@
-import { Cells } from "../Cell/Cell.js";
+import Cell from "../Cell/Cell.js";
 
 class Board {
   constructor(width, height) {
